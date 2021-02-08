@@ -1,8 +1,8 @@
-> **Essentially, all models are wrong, but some are useful.**
+> ### Essentially, all models are wrong, but some are useful.
 >
 > *George E. P. Box*
 
----
+#
 
 ### Hi there 👋, I'm Christian
 
